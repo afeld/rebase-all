@@ -26,6 +26,8 @@ A-B-F (master)
 
 ## Usage
 
+*TRY ON A THROWAWAY CLONE OF A REPOSITORY FIRST. You have been warned.*
+
 Requires Ruby 1.9.3+. Download/clone this repository, then run:
 
 ```bash
