@@ -29,8 +29,11 @@ Requires Ruby 1.9.3+. Download/clone this repository, then run:
 ```bash
 # https://github.com/libgit2/rugged#install
 brew install cmake
+gem install rugged
 
 cd path/to/your/project/repo
-gem install rugged
+git checkout upstream-branch
+# make changes
+git commit -m "added missing step"
 ruby path/to/rebase_all.rb
 ```
