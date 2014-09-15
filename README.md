@@ -40,6 +40,7 @@ git checkout upstream-branch
 # make changes
 git commit -m "added missing step"
 ruby path/to/rebase_all.rb
+git push --all -f
 ```
 
 ## See Also
