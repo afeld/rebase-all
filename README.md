@@ -39,3 +39,9 @@ git checkout upstream-branch
 git commit -m "added missing step"
 ruby path/to/rebase_all.rb
 ```
+
+## See Also
+
+* http://stackoverflow.com/q/5600659/358804
+* http://stackoverflow.com/q/5628236/358804
+* http://stackoverflow.com/q/6658195/358804
