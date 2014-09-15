@@ -22,6 +22,8 @@ A-B-F (master)
          E' (feature-b)
 ```
 
+<!-- example from http://stackoverflow.com/q/5600659/358804 -->
+
 ## Usage
 
 Requires Ruby 1.9.3+. Download/clone this repository, then run:
